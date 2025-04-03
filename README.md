@@ -1,4 +1,5 @@
-🚀 Palak Aggarwal | Developer & Innovator
+Hey there!
+🚀** I am Palak Aggarwal | Developer & Innovator**
 🎓 B.Tech CSE @ Graphic Era Hill University, Dehradun
 💻 Passionate about: Machine Learning | Deep Learning
 🔬 Currently Working On: Molecular Graph Learning (KPGT Project) | Drug Discovery Assistant
